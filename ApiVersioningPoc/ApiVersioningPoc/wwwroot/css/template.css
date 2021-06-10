@@ -1,0 +1,4 @@
+﻿
+.swagger-ui .opblock.opblock-deprecated .opblock-summary-method {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+}
